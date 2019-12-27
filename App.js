@@ -17,6 +17,7 @@ import {
 } from 'react-native';
 
 import Header from './components/Header';
+
 import StartGameScreen from './screens/StartGameScreen';
 const App = () => {
   return (
